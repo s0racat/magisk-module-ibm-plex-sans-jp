@@ -1,8 +1,7 @@
-id=font-mejiro-oshi
-name=Mejiro Font
-version=v19
-versionCode=19
-author=AndroPlus
-description=Mejiro font patch for Japanese users.
-donate=https://github.com/sponsors/AndroPlus-org?frequency=one-time
-updateJson=https://raw.githubusercontent.com/AndroPlus-org/magisk-module-mejiro-font/master/update.json
+id=font-ibm-plex-sans-jp
+name=IBM Plex Sans JP
+version=v1
+versionCode=1
+author=soracat
+description=IBM Plex Sans JP
+updateJson=https://raw.githubusercontent.com/s0racat/magisk-module-ibm-plex-sans-jp/master/update.json
