@@ -1,7 +1,7 @@
 id=font-ibm-plex-sans-jp
 name=IBM Plex Sans JP
-version=v1.0.1
-versionCode=101
+version=v1.0.3
+versionCode=103
 author=soracat
 description=IBM Plex Sans JP
 updateJson=https://raw.githubusercontent.com/s0racat/magisk-module-ibm-plex-sans-jp/master/update.json
