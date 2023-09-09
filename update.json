@@ -1,6 +1,6 @@
 {
-	"version": "v1",
-	"versionCode": 1,
+	"version": "v1.0.1",
+	"versionCode": 100,
 	"zipUrl": "https://github.com/s0racat/magisk-module-ibm-plex-sans-jp/releases/latest/download/magisk-module-ibm-plex-sans-jp.zip",
 	"changelog": "https://raw.githubusercontent.com/s0racat/magisk-module-ibm-plex-sans-jp/master/README.md"
 }
